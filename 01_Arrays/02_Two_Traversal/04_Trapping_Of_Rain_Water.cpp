@@ -33,6 +33,5 @@ water[j] = max(0, currentwater);
 int main(){
     vector<int>nums={5,5,5,5};
    cout<<TrappingOfRainWater(nums);
-
-
+    return 0;
 }
